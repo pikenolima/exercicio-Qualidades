@@ -1,0 +1,2 @@
+# exercicio-Qualidades
+exercicios ebac
